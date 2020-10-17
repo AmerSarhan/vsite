@@ -33,7 +33,7 @@
     "@nuxtjs/pwa": "^3.0.0-beta.19",
     "@nuxtjs/style-resources": "^1.0.0",
     "fast-glob": "^3.1.1",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.14.7",
     "ts-node": "^8.6.2",
     "vue-property-decorator": "^8.3.0"
   },
@@ -69,5 +69,25 @@
     "sass-loader": "^8.0.2",
     "ts-jest": "^25.0.0",
     "vue-jest": "^4.0.0-beta.2"
-  }
+  },
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmerSarhan/vsite.git"
+  },
+  "keywords": [
+    "This",
+    "is",
+    "a",
+    "test",
+    "site"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmerSarhan/vsite/issues"
+  },
+  "homepage": "https://github.com/AmerSarhan/vsite#readme"
 }
